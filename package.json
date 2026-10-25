@@ -1,0 +1,22 @@
+{
+  "name": "ojas-jha-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website for Ojas Jha — FlyRank AI Fluency Week 4: Empty but Live",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "node scripts/verify-build.js",
+    "test": "node scripts/verify-build.js"
+  },
+  "keywords": [
+    "portfolio",
+    "cybersecurity",
+    "developer",
+    "cyberpunk",
+    "minimal",
+    "flyrank"
+  ],
+  "author": "Ojas Jha",
+  "license": "MIT"
+}

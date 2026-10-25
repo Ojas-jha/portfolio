@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vercel deployment cache
+.vercel
+
+# Unrelated task-api backend folder
+task-api-v2-main/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+*.log
